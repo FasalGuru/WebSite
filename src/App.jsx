@@ -83,7 +83,7 @@ function App() {
             }}
           >
             Get access to exclusive features, real-time updates, and a seamless
-            farming experience with the Fasal mobile app.
+            farming experience with the Fasal Guru app.
           </p>
 
           <div style={{ display: "flex", gap: "16px" }}>
@@ -107,7 +107,8 @@ function App() {
             </a>
 
             <a
-              href="#download-android"
+              href="https://drive.google.com/uc?export=download&id=1yW-CvWT9L7v8AjLzOjstIrzXuhm17Afq"
+              download
               style={{
                 display: "flex",
                 alignItems: "center",
